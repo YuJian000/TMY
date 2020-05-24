@@ -22,7 +22,7 @@
                     var password=$("#pwd").val();
 
                     if(username==''||username==undefined){
-                        error="用户名不能为空!";
+                        error="用户名是不能为空!";
                         flag=false;
                     }
                     if(password==''||password==undefined){
